@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.vscode/
+
+# Data
+data/
+*.parquet
+*.gpkg
+*.pickle
+*.pkl
+*.csv
